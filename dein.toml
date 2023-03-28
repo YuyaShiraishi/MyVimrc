@@ -15,3 +15,12 @@ repo = 'bronson/vim-trailing-whitespace'
 
 [[plugins]]
 repo = 'dense-analysis/ale'
+
+[[plugins]]
+repo = 'tiagofumo/vim-nerdtree-syntax-highlight'
+
+[[plugins]]
+repo = 'ryanoasis/vim-devicons'
+
+[[plugins]]
+repo = 'chriskempson/vim-tomorrow-theme'
